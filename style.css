@@ -1,0 +1,12 @@
+.card{
+    background-color: aqua;
+    position: fixed;
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+root{
+    margin-inline-start: 0%;
+    height: 60;
+    color: #ca3434;
+}
