@@ -1,0 +1,11 @@
+# files and folders will be ignored hear and will not be pushed to github
+
+# FILES
+nopush.html
+
+# MULTIPLE FILES WITH SAME EXETENSIONS
+*.js
+*.php
+
+# FOLDERS
+images/
